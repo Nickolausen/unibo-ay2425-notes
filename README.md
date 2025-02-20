@@ -1,2 +1,2 @@
-# unibo-ay2425-notes
+# Academic Notes
 Lecture notes, written with Obsidian
