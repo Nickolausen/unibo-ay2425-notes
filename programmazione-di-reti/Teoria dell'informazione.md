@@ -17,4 +17,8 @@ $$
 - $f$ = frequenza — volume alto / basso
 - $\phi$ = fase
 
+![[Pasted image 20250220171718.png]]
+
 La sinusoide può essere semplificata rappresentando solo **ampiezze** (asse $y$) e **frequenze** (asse $x$).
+
+![[Pasted image 20250220171758.png]]
