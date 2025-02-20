@@ -71,9 +71,9 @@ Topologie di rete: descrizione geometrica della rete
 
 Nel mondo reale, le reti sono **combinazioni**: tendono ad usare le maglie nel centro e le stelle nei nodi terminali.
 
-Rete di accesso
+**Rete di accesso**
 - parte di rete più vicina all'utente
 
-Rete di transito / trasporto (*backbone*)
+**Rete di transito / trasporto** (*backbone*)
 - pochi nodi di commutazione
 - collegamenti ad un numero limitato ad alta capacità
